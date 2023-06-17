@@ -58,7 +58,7 @@ global.SEX_VIDEO_DOWNLOAD = false
 //👇 Only Inbox Use ( Only PM Work )
 global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this ) බොට් ඔබේ මිතුරන් හා chat කිරීමට අවශ්‍ය නම් true දමන්න.
-global.AUTO_OPEN_AI = false
+global.AUTO_OPEN_AI = true
 //👇 Bot On Privet බොට් ප්‍රයිවට් දැමීමට.
 global.PRIVET_BOT = false
 //👇 DISABLE Bot Commands But Others Are Working 
@@ -86,9 +86,9 @@ global.INBOX_BLOCK_MSG = 'BLOCKED you 🥵 !!!'
 //👇 Owner React Imoji
 global.OWNER_REACT =  '👾|🤖'
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ 𝙿𝚕𝚎𝚊𝚜𝚎 𝚠𝚊𝚒𝚝... Downloading Your Song...✓```' 
+global.SONG_DOWN = '```⬇️ 𝙿𝚕𝚎𝚊𝚜𝚎 𝚠𝚊𝚒𝚝... Downloading Your Song...✓``( චුට්ටක් ඉදපන් බං සිංදුව downoad කරනවා තාම 🤠🥵)`' 
 //👇 Song Uplode massage 
-global.SONG_UP = '```⬆️ 𝙿𝚕𝚎𝚊𝚜𝚎 𝚠𝚊𝚒𝚝..Uploding Your Song...✓``'
+global.SONG_UP = '```⬆️ 𝙿𝚕𝚎𝚊𝚜𝚎 𝚠𝚊𝚒𝚝..Uploding Your Song...✓`` (චුට්ටක් ඉදපන් සිංදුව upload කරන ගමන් ඉන්නේ. ♻️🔎 )'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|ℹ️|👾'
 //👇 Your time zone ( use correct time zone )
@@ -137,27 +137,27 @@ global.zenzapi = '01ABEB1E11'
 
 global.mess = {
 success: '✅ Done!',
-admin: '*Only admins can use this command !*',
-botAdmin: '*Please admin the bot first !*', 
-owner: '*Sorry, this command is only for the owner !*',
-group: '*This command can only be used in groups !*',
-private: '*This command can only be used in Inbox !*',
+admin: '*Only admins can use this command ☠️!*',
+botAdmin: '*Please admin the bot first👽👻 !*', 
+owner: '*Sorry, this command is only for the owner 🤠!*',
+group: '*This command can only be used in groups 👎 !*',
+private: '*This command can only be used in Inbox ☠️💀 !*',
 bot: '*This command can only be used by bot number !*',
-wait: '*♲ Please Wait ...*',
+wait: '*♲ Please Wait 🔎 ...*',
 endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
-IMG_BLOCK : "This Word is Ban from image downloader",
-DISABLE_INBOX : "Inbox DISABLE By Bot Owner Please Only Use Groups",
+BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner❌*',
+IMG_BLOCK : "This Word is Ban from image downloader📛",
+DISABLE_INBOX : "Inbox DISABLE By Bot Owner Please Only Use Groups♻️",
 ONLY_SEX_GROUP : "Adult Video Download Only Allowed On This Group \n\n https://chat.whatsapp.com/JYAg2lMpRTF2bgkeFCxsvf",
 DISABLE_CMD : "🚫 Commands Are DISABLE by owner",
 BAD_DETECT : '',
-BLOCK : '',
-UNBLOCK : '',
-KICK : '',
-ADD : '',
-LEAVE : '',
-PROMOTE : '',
-DEMOTE : ''
+BLOCK : 'Block for you🤖👾',
+UNBLOCK : 'hii 😁',
+KICK : 'Removed you 🥵',
+ADD : 'Hii welcome 🥰❤️',
+LEAVE : Bye 🖐️',
+PROMOTE : 'Promoted you ❤️👏',
+DEMOTE : 'Demoted for you 🥵👎'
 
 }
 
