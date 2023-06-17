@@ -1,7 +1,7 @@
 {
-  "name": "QUEEN-ELISA-MD",
-  "version": "3.8.6",
-  "description": "Queen Elisa Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
+  "name": "K-Black-Star-1",
+  "version": "2.0",
+  "description": "K-Black-Star-1 Whatsapp Bot is  Whatsapp 1rd Party Module",
   "type": "commonjs",
   "scripts": {
     "start": "node --max_old_space_size=8192 lib/runner/index.js"
@@ -17,7 +17,7 @@
     "multi-device",
     "dark-maker-ofc"
   ],
-  "author": "MR-NIMA",
+  "author": "MR-Kavindu",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:baileys-md@5.0.5",
@@ -90,10 +90,9 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/DarkMakerofc/QUEEN-ELISA-MD.git",
-  "bugs": {
-    "url": "https://github.com/DarkMakerofc/QUEEN-ELISA-MD/issues"
+  "repository": "git+https://github.com/nimeshsky7/K-Black-Star-1-Bot-MD-V2.0.git"
+    "url": "https://github.com/nimeshsky7/K-Black-Star-1-Bot-MD-V2.0/issues"
   },
-  "homepage": "https://github.com/DarkMakerofc/QUEEN-ELISA-MD/#readme",
+  "homepage": "https://github.com/nimeshsky7/K-Black-Star-1-Bot-MD-V2.0/#readme",
   "main": "index.js"
 }
